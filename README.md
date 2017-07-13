@@ -1,6 +1,6 @@
-# Hello-World
+# Hello-World!
 
-## Begining a journey of code...
+### Begining a journey of code...
 # ---------------------
 ## Welcome to GitHub Pages
 
