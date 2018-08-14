@@ -1,7 +1,7 @@
 # Hello-World!
 
 ### Begining a journey of code...
-# ---------------------
+# ----------(cool stuff)-----------
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/egrid3/Hello-World/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -31,6 +31,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+... more stuff to come
 
 ### Jekyll Themes
 
